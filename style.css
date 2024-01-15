@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif; 
+}
+img {
+    display: block;   
+}
+#image {
+    max-width: 100%;
+    margin: auto;
+    
+}
+main {
+    text-align: center;
+    
+    padding: 20px;
+}
+h1 {
+    font-size: 2.5em;
+    
+}
+body {
+    line-height: 1.5;
+    background-color: rgb(232, 232, 232);
+    
+}
+#img-div {
+    background-color: white;
+    padding: 20px;
+    margin: 0;
+}
+figcaption {
+    padding: 5px;
+}
+li {
+    text-align: justify;
+    padding: 10px;
+    line-height: 1.5;
+    
+}
+#tribute-info {
+    display: inline-block;
+    max-width: 35%;
+    padding: 20px;
+}
+#link > a {
+    
+    color: rgb(0, 99, 133);
+}
+
+#link {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
